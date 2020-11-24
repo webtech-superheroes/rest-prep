@@ -1,4 +1,3 @@
-#Subiect 3 (2.5 pts)
 #TOPIC: REST
 
 # Dată fiind aplicația `app` completați metoda `GET` la adresa `/homeworks` si metoda `GET` la adresa `/homeworks/id`:
