@@ -1,4 +1,3 @@
-#Subiect 3 (2.5 pts)
 #TOPIC: REST
 
 # Having the following `app` complete the method `GET` at the enpoint `/homeworks` and the method `GET` at the endpoint `/homeworks/id` so that:
